@@ -1,0 +1,1 @@
+This project was a creative challenge from the 30 Days in Space course by Inventr.io. It is a simulation of a traffic light cycle on a Arduino Uno board.
